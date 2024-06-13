@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "name": "Rajubhaiii",
+      "email": "raju@gmaol.com",
+      "id": 7
+    },
+    {
+      "name": "Ayush",
+      "email": "ayyurangani04@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "Raju",
+      "email": "anc@gmaol.com",
+      "id": 10
+    },
+    {
+      "name": "bhikho0",
+      "email": "moto bhikho",
+      "id": 11
+    },
+    {
+      "name": "ramu",
+      "email": "ramu@ok.com",
+      "id": 12
+    },
+    {
+      "name": "jaydeeppp",
+      "email": "jaydeep302@gmaail.com",
+      "id": 13
+    },
+    {
+      "name": "cjhbfg",
+      "email": "nhjxfv",
+      "id": 14
+    },
+    {
+      "name": "koglo",
+      "email": "koglo@gmail.com",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
